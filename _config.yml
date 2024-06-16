@@ -26,15 +26,15 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Bo Gu received the Ph.D. degree from Waseda University, Japan, in 2013. He was an assistant professor with Waseda University, Japan, from 2013 to 2016, and an associate professor with Kogakuin University, Japan, from 2016 to 2019. He is currently a professor with the school of intelligent systems engineering, Sun Yat-Sen University, China. His research interests include Internet of Things, edge computing, network economics, and machine learning. He was the recipient of the IEEE ComSoc Communications Systems Integration & Modeling (CSIM) Technical Committee Best Journal Article Award in 2019, the Asia-Pacific Network Operations and Management Symposium (APNOMS) Best Paper Award in 2016, and the IEICE Young Researcher’s Award in 2011."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Sun Yat-Sen University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gubo@mail.sysu.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-0556-2769"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
