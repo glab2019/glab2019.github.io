@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "BoGu.png"
   name             : "Bo Gu"
   pronouns         : # example: "she/her"  
   bio              : "Bo Gu received the Ph.D. degree from Waseda University, Japan, in 2013. He was an assistant professor with Waseda University, Japan, from 2013 to 2016, and an associate professor with Kogakuin University, Japan, from 2016 to 2019. He is currently a professor with the school of intelligent systems engineering, Sun Yat-Sen University, China. His research interests include Internet of Things, edge computing, network economics, and machine learning. He was the recipient of the IEEE ComSoc Communications Systems Integration & Modeling (CSIM) Technical Committee Best Journal Article Award in 2019, the Asia-Pacific Network Operations and Management Symposium (APNOMS) Best Paper Award in 2016, and the IEICE Young Researcher’s Award in 2011."
